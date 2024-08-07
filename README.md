@@ -15,6 +15,9 @@ This script is a basic example of the Python programming language It was created
   <br>
 </h1>
 
+> [!NOTE]  
+> **This program is not designed for everyone It might seem a bit confusing I will update the program to make it more user-friendly and visually appealing next time**
+
 * Delete Existing Files: The delete_files function deletes any files specified in the list if they exist, otherwise it informs that they do not exist.
 * Create New Files: The create_file function creates a new file if it doesn’t already exist. It prompts the user to enter data line by line until they type 'done', at which point it saves the data to the file.
 * Get File Data: The get_file_data function reads the contents of a file and returns it as a list of lines.
